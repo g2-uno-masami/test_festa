@@ -1,2 +1,6 @@
 Ç¶Ç¡ÅH
 - feature-A 
+<<<<<<< HEAD
+=======
+- fix-B
+>>>>>>> fix-B
