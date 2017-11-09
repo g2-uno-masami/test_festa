@@ -1,3 +1,2 @@
 ‚¦‚ÁH
-- feature-A 
-- fix-B
+- feature-A
